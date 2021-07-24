@@ -16,3 +16,17 @@ Then, the result below will be displayed
 2011/3/14 Pisces 卯  
 2017/9/18 Virgo 酉  
 
+## 2.Clock_degree.py and test.py
+### description
+if you write a time on a day like 20 40, you can get the degree between the hour hand and the minute hand
+### how to use
+In a directory, if you write  
+python Clock_degree.py  
+standard input are required like:  
+何時何分ですか？（入力例：22 40）  
+you should write dates like :20 40
+Then, the result below will be displayed  
+Input         | Result
+------------- | -------------
+22 40         | 求まる角度は0度です。
+Content Cell  | Content Cell
