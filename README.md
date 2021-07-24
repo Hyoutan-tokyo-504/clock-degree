@@ -10,7 +10,7 @@ In a directory, if you write
 python birthday_symbol.py  
 standard input are required like:  
 日付を入力してください。  
-you should write dates like :1998/11/15 2011/3/14 2017/9/18
+you should write dates like :1998/11/15 2011/3/14 2017/9/18  
 Then, the result below will be displayed  
 1998/11/15 Scorpio 寅  
 2011/3/14 Pisces 卯  
