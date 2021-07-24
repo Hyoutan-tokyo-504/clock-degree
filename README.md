@@ -24,10 +24,13 @@ In a directory, if you write
 python Clock_degree.py  
 standard input are required like:  
 何時何分ですか？（入力例：22 40）  
-you should write dates like :20 40
+you should write dates like :20 40  
 Then, the result below will be displayed  
 Input         | Result
 ------------- | -------------
 22 40         | 求まる角度は0度です。
 26 40         | 第一引数は0\~23、第二引数は0\~59の整数値を入力してください。
 aaa 0         | 整数値を入力してください。
+### about test.py
+if you want to test Clock_degree.py, please use test.py  
+if you edit this file, you can test any conditions.
