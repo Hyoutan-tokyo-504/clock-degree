@@ -29,4 +29,5 @@ Then, the result below will be displayed
 Input         | Result
 ------------- | -------------
 22 40         | 求まる角度は0度です。
-Content Cell  | Content Cell
+26 40         | 第一引数は0~23、第二引数は0~59の整数値を入力してください。
+aaa 0         |整数値を入力してください。
